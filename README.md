@@ -63,4 +63,4 @@ In case the sending e-mail server is not able to initiate a secure connection, i
 
 [julian.pawlowski.me](https://julian.pawlowski.me/) &nbsp;&middot;&nbsp;
 GitHub [@jpawlowski](https://github.com/jpawlowski/mta-sts.template) &nbsp;&middot;&nbsp;
-Vevioz [vevioz.com/vevioz](https://www.vevioz.com)
+Vevioz [vevioz.com/vevioz](https://www.vevioz.com/vevioz)
